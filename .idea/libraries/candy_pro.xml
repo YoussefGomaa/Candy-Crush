@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="candy_pro">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/candy_pro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
